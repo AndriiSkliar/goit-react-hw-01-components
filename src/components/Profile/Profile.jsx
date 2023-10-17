@@ -1,5 +1,5 @@
-export const Profile = props => {
-  const { username, tag, location, avatar, stats: { followers, views, likes } } = props;
+export const Profile = ({user}) => {
+  const { username, tag, location, avatar, stats: { followers, views, likes } } = user;
 
   return (
   <div className="profile">
