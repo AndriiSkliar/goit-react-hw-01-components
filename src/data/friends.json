@@ -1,31 +1,31 @@
 [
   {
-    "avatar": "https://cdn-icons-png.flaticon.com/512/1998/1998592.png",
-    "name": "Mango",
+    "avatar": "https://i.stopcor.org/person/2022/4/9/vladimirzelenskij51939489510.jpeg?size=1000x1000",
+    "name": "Vova",
     "isOnline": true,
     "id": 1812
   },
   {
-    "avatar": "https://cdn-icons-png.flaticon.com/512/616/616438.png",
-    "name": "Kiwi",
+    "avatar": "https://ca.slack-edge.com/T05UVJFGHKR-U060C0C3GRZ-0577b3c5ebe3-512",
+    "name": "Max",
     "isOnline": false,
     "id": 1137
   },
   {
-    "avatar": "https://cdn-icons-png.flaticon.com/512/1623/1623681.png",
-    "name": "Ajax",
+    "avatar": "https://ca.slack-edge.com/T05UVJFGHKR-U05VA3663C3-c19d842afff7-512",
+    "name": "Maria",
     "isOnline": true,
     "id": 1213
   },
   {
-    "avatar": "https://cdn-icons-png.flaticon.com/512/2977/2977285.png",
-    "name": "Jay",
+    "avatar": "https://ca.slack-edge.com/T05UVJFGHKR-U05V3F9EN8N-302563656575-512",
+    "name": "Maryna",
     "isOnline": true,
     "id": 1714
   },
   {
-    "avatar": "https://cdn-icons-png.flaticon.com/512/1998/1998749.png",
-    "name": "Poly",
+    "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZQUbo4Id6f68u2DnixTMAbe3-iI1KB3b8rz03EMkcxyHxWs_XnnCebwXEx9ORbrICNhk&usqp=CAU",
+    "name": "Repeta",
     "isOnline": false,
     "id": 1284
   }

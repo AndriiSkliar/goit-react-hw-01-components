@@ -1,0 +1,17 @@
+.transactionHistory {
+  box-shadow: var(--box-shadow);
+  width: 250px;
+}
+
+.transactionHistoryList {
+  background-color: var(--bg-card-color);
+}
+
+.transactionHistoryItem {
+  background-color: var(--bg-footer-color);
+}
+
+.amount,
+.currency {
+  text-align: center;
+}

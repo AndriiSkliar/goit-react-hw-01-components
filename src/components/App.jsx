@@ -9,10 +9,12 @@ import { TransactionHistory } from './TransactionHistory/TransactionHistory';
 
 export const App = () => {
   return (
-    <div>
-      <Profile user={user} />
+    <div className="container">
+      <div className="wrapper">
+        <Profile user={user} />
 
        <Statistics title="Upload stats" stats={data} />
+      </div>
 
       <FriendList friends={friends} />
 
